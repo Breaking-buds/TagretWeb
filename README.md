@@ -18,6 +18,12 @@ J'ai crée le custom post type Recette directement dans le function.php même si
 Pour installer le projet sur votre machine en local, il suffit de l'ajouter à votre serveur virtuel, pour ma part c'est Wamp.
 Il suffira de changer les informations de connexion à la base de donnée dans le fichier wp-config, d'importer la base dans votre phpMyAdmin en changant s'il le faut les lignes "siteurl" et "home". Une fois ces modifications éffectuées, vous pourrez vous connecter à l'admin à l'adresse http://localhost/targetWebTest/wp-admin/.
 
+Les accès à l'admin : 
+
+http://localhost/targetWebTest/wp-admin
+identifiant : admin_target
+mdp : targetweb
+
 Allez ensuite dans réglage -> permaliens et appuyez sur "enregistrer les modifications"
 
 J'aurais aimé queqlques améliorations sur le projet d'un point de vue design en étoffant la page avec d'avantages d'inforamations.
