@@ -19,3 +19,8 @@ Pour installer le projet sur votre machine en local, il suffit de l'ajouter à v
 Il suffira de changer les informations de connexion à la base de donnée dans le fichier wp-config, d'importer la base dans votre phpMyAdmin en changant s'il le faut les lignes "siteurl" et "home". Une fois ces modifications éffectuées, vous pourrez vous connecter à l'admin à l'adresse http://localhost/targetWebTest/wp-admin/.
 
 Allez ensuite dans réglage -> permaliens et appuyez sur "enregistrer les modifications"
+
+J'aurais aimé queqlques améliorations sur le projet d'un point de vue design en étoffant la page avec d'avantages d'inforamations.
+Pour un réel site de recettes, j'aurais aimé prévoir un espace utilisateur avec la possibilité de soumettre des recettes personelles, laisser des avis et des notations. 
+Il aurait été agréable d'ajouter un slider d'images pour chaque recettes pour donner l'eau à la bouche !
+
