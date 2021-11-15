@@ -20,7 +20,6 @@ Il suffira de changer les informations de connexion à la base de donnée dans l
 
 Les accès à l'admin : 
 
-http://localhost/targetWebTest/wp-admin
 identifiant : admin_target
 mdp : targetweb
 
